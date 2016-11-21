@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ques</key>
+		<string>Who invented Objective c?Who invented Objective c?Who invented Objective c?Who invented Objective c?Who invented Objective c?Who invented Objective c?</string>
+		<key>ans</key>
+		<string>Broad cox and Tom Love</string>
+	</dict>
+    <dict>
+        <key>ques</key>
+        <string>What is Cococa and cocoa touch?</string>
+        <key>ans</key>
+        <string>Cocoa is for Mac App development  and cocoa touch is for apples touch devices - that provide all development environment</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is Objective c?</string>
+        <key>ans</key>
+        <string>Objective-C is a reflective, object-oriented programming language which adds Smalltalk-style messaging to the C programming language. strictly superset of c.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is property in Objective c?</string>
+        <key>ans</key>
+        <string>Property allow declared variables with specification like atomic/nonatmic, or retain/assign </string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "copy" keyword?</string>
+        <key>ans</key>
+        <string>Declare read only object / declare only getter method</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "retain" keyword?</string>
+        <key>ans</key>
+        <string>Specifies that retain should be invoked on the object upon assignment. takes ownership of an object</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "assign" keyword?</string>
+        <key>ans</key>
+        <string>Specifies that the setter uses simple assignment. Uses on attribute of scalar type like float,int.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "atomic" keyword?</string>
+        <key>ans</key>
+        <string>"atomic", the synthesized setter/getter will ensure that a whole value is always returned from the getter or set by the setter, only single thread can access variable to get or set value at a time</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is difference between "assign" and "retain" keyword?</string>
+        <key>ans</key>
+        <string>Retain -Specifies that retain should be invoked on the object upon assignment. takes ownership of an object \n
+            Assign - Specifies that the setter uses simple assignment. Uses on attribute of scalar type like float,int.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "synthesize" keyword ?</string>
+        <key>ans</key>
+        <string>Ask the compiler to generate the setter and getter  methods according to the specification in the declaration</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is "Protocol" on objective c?</string>
+        <key>ans</key>
+        <string>A protocol declares methods that can be implemented by any class. Protocols are not classes themselves. They simply define an interface that other objects are responsible for implementing. Protocols have many advantages. The idea is to provide a way for classes to share the same method and property declarations without inheriting them from a common ancestor</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is use of UIApplication class?</string>
+        <key>ans</key>
+        <string>The UIApplication class implements the required behavior of an application.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What compilers apple using ?</string>
+        <key>ans</key>
+        <string>The Apple compilers are based on the compilers of the GNU Compiler Collection.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is synchronized() block in objective c? what is the use of that?</string>
+        <key>ans</key>
+        <string>The @synchronized()directive locks a section of code for use by a single thread. Other threads are blocked until the thread exits the protected code.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "retain" keyword?</string>
+        <key>ans</key>
+        <string>Specifies that retain should be invoked on the object upon assignment. takes ownership of an object</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "assign" keyword?</string>
+        <key>ans</key>
+        <string>Specifies that the setter uses simple assignment. Uses on attribute of scalar type like float,int.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "atomic" keyword?</string>
+        <key>ans</key>
+        <string>"atomic", the synthesized setter/getter will ensure that a whole value is always returned from the getter or set by the setter, only single thread can access variable to get or set value at a time</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is difference between "assign" and "retain" keyword?</string>
+        <key>ans</key>
+        <string>Retain -Specifies that retain should be invoked on the object upon assignment. takes ownership of an object \n
+            Assign - Specifies that the setter uses simple assignment. Uses on attribute of scalar type like float,int.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is meaning of "synthesize" keyword ?</string>
+        <key>ans</key>
+        <string>Ask the compiler to generate the setter and getter  methods according to the specification in the declaration</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is "Protocol" on objective c?</string>
+        <key>ans</key>
+        <string>A protocol declares methods that can be implemented by any class. Protocols are not classes themselves. They simply define an interface that other objects are responsible for implementing. Protocols have many advantages. The idea is to provide a way for classes to share the same method and property declarations without inheriting them from a common ancestor</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is use of UIApplication class?</string>
+        <key>ans</key>
+        <string>The UIApplication class implements the required behavior of an application.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What compilers apple using ?</string>
+        <key>ans</key>
+        <string>The Apple compilers are based on the compilers of the GNU Compiler Collection.</string>
+    </dict>
+    <dict>
+        <key>ques</key>
+        <string>What is synchronized() block in objective c? what is the use of that?</string>
+        <key>ans</key>
+        <string>The @synchronized()directive locks a section of code for use by a single thread. Other threads are blocked until the thread exits the protected code.</string>
+    </dict>
+</array>
+</plist>
